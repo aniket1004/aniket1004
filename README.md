@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - C 
 - C++
 - PHP
-- JAVA
+- Java
 - PYTHON
-- SCALA
-- JAVASCRIPT
-- GIT
+- Scala
+- Javascript
+- Git
 - Angular
 - Node.js
 - Linux System Programming
-- MYSQL
+- MySQL
 - MongoDB
 - HTML 
 - CSS 
