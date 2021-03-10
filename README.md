@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole1004.netlify.app.
 
-** Languages and tools **
+**Languages and tools**
 
 - C 
 - C++
