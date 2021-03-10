@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PHP api.
 - 🌱 I’m currently learning building the api.
 - 💬 Ask me about programming.
-- 📫 How to reach me: +919284770231 Pune, Maharashtra, India
+- 📫 How to reach me https://aniketdhole1004.netlify.app.
 
-My Portfolio :- https://aniketdhole1004.netlify.app
-Languages and tools :
+- Languages and tools :
 C 
 C++
 PHP
