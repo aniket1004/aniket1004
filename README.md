@@ -9,21 +9,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole1004.netlify.app.
 
-- Languages and tools :
-C 
-C++
-PHP
-JAVA
-PYTHON
-SCALA
-JAVASCRIPT
-GIT
-Angular
-Node.js
-Linux System Programming
-MYSQL
-MongoDB
-HTML 
-CSS 
+Languages and tools :
+
+- C 
+- C++
+- PHP
+- JAVA
+- PYTHON
+- SCALA
+- JAVASCRIPT
+- GIT
+- Angular
+- Node.js
+- Linux System Programming
+- MYSQL
+- MongoDB
+- HTML 
+- CSS 
 
 
