@@ -4,11 +4,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on PHP api.
+- 🌱 I’m currently learning building the api.
+- 💬 Ask me about programming.
+- 📫 How to reach me: +919284770231 Pune, Maharashtra, India
+
+
+Languages and tools :
+C 
+C++
+PHP
+JAVA
+PYTHON
+SCALA
+JAVASCRIPT
+GIT
+Angular
+Node.js
+Linux System Programming
+MYSQL
+MongoDB
+HTML 
+CSS 
+
+
