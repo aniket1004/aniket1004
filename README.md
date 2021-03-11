@@ -1,4 +1,4 @@
-### Hi, I'm Aniket - ***Aniket Chandrakant Dhole*** 👋
+### Hi, I'm Aniket - [Aniket Chandrakant Dhole][website] 👋
 
 #### I'm Developer, Learner, Student.
 <!-- **aniket1004/aniket1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -25,21 +25,7 @@
 
 ### Languages and tools
 
-- C 
-- C++
-- PHP
-- Java
-- PYTHON
-- Scala
-- Javascript
-- Git
-- Angular
-- Node.js
-- Linux System Programming
-- MySQL
-- MongoDB
-- HTML 
-- CSS 
+
 
 <img align="left" alt="c" width="26px" src="img/c.png" />
 <img align="left" alt="cpp" width="26px" src="img/cpp.jpg" />
