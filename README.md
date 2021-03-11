@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Aniket 👋
 
+#### I'm Developer, Learner, Student.
 <!-- **aniket1004/aniket1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
