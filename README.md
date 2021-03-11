@@ -19,7 +19,7 @@
 <br />
 
 
-[website]: https://aniketdhole.netlify.app
+[website]: https://aniketdhole1004.netlify.app
 [instagram]: https://instagram.com/aniket_dhole_
 [linkedin]: https://www.linkedin.com/in/aniket-dhole-6932991a5
 [twitter]: https://twitter.com/imaniketd?s=08
