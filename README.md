@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning building the api.
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole1004.netlify.app
-- Instagram https://instagram.com/aniket_dhole_
+[instagram] https://instagram.com/aniket_dhole_
 
 **Languages and tools**
 
