@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning building the api.
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole1004.netlify.app
-
 ### Connect with me:
 
 [<img align="left" alt="aniket1004.com" width="22px" src="https://raw.githubusercontent.com/TheLogicalNights/TheLogicalNights/main/img/website.png" />][website]
@@ -24,8 +23,7 @@
 [twitter]: https://twitter.com/imaniketd?s=08
 
 
-
-**Languages and tools**
+### Languages and tools
 
 - C 
 - C++
