@@ -23,7 +23,8 @@
 [linkedin]: https://www.linkedin.com/in/aniket-dhole-6932991a5
 [twitter]: https://twitter.com/imaniketd?s=08
 
-<br/>
+
+
 **Languages and tools**
 
 - C 
