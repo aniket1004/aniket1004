@@ -14,15 +14,16 @@
 [<img align="left" alt="aniket1004.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aniket1004 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aniket1005 | Instagram" width="32px" src="img/insta.png" />][instagram]
-[<img align="left" alt="aniket1005 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aniket1005 | Instagram" width="22px" src="img/twitter.png" />][twitter]
 
-<br />
-
+<br/>
 
 [website]: https://aniketdhole1004.netlify.app
 [instagram]: https://instagram.com/aniket_dhole_
 [linkedin]: https://www.linkedin.com/in/aniket-dhole-6932991a5
 [twitter]: https://twitter.com/imaniketd?s=08
+
+<br/>
 **Languages and tools**
 
 - C 
