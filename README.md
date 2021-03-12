@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on PHP api.
 - 🌱 I’m currently learning building the api.
 - 💬 Ask me about programming.
-- 📫 How to reach me https://aniketdhole1004.netlify.app
+- 📫 How to reach me https://aniketdhole.netlify.app
 ### Connect with me:
 
 [<img align="left" alt="aniket1004.com" width="22px" src="https://raw.githubusercontent.com/TheLogicalNights/TheLogicalNights/main/img/website.png" />][website]
@@ -17,7 +17,7 @@
 
 <br/>
 
-[website]: https://aniketdhole1004.netlify.app
+[website]: https://aniketdhole.netlify.app
 [instagram]: https://instagram.com/aniket_dhole_
 [linkedin]: https://www.linkedin.com/in/aniket-dhole-6932991a5
 [twitter]: https://twitter.com/imaniketd?s=08
