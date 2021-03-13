@@ -27,7 +27,7 @@
 
 
 <img align="left" alt="c" width="26px" src="img/c.png" />
-<img align="left" alt="cpp" width="26px" src="img/cpp.jpg" />
+<img align="left" alt="cpp" width="26px" src="img/cpp.png" />
 <img align="left" alt="java" width="26px" src="img/java.png" />
 <img align="left" alt="py" width="26px" src="img/py.png" />
 <img align="left" alt="scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
