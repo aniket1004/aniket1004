@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning building the api.
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole.netlify.app
+- ⚡ LeetCode Profile : https://leetcode.com/aniketdhole/
 ### Connect with me:
 
 [<img align="left" alt="aniket1004.com" width="22px" src="https://raw.githubusercontent.com/TheLogicalNights/TheLogicalNights/main/img/website.png" />][website]
