@@ -29,7 +29,6 @@
 ### Languages and tools
 
 
-
 <img align="left" alt="c" width="26px" src="img/c.png" />
 <img align="left" alt="cpp" width="26px" src="img/cpp.png" />
 <img align="left" alt="java" width="26px" src="img/java.png" />
