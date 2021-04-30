@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working on PHP api.
-- 🌱 I’m currently learning building the api.
+- 🔭 I’m currently working on Django Rest Framework.
+- 🌱 I’m currently learning Django Rest Framwork.
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole.netlify.app
 - ⚡ LeetCode Profile : https://leetcode.com/aniketdhole/
