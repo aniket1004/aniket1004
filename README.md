@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working on Django Rest Framework.
-- 🌱 I’m currently learning Django Rest Framwork.
+- 🔭 I’m currently working on C# .NET Framework.
+- 🌱 I’m currently learning Mobile Development in Android.
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole.netlify.app
 - ⚡ LeetCode Profile : https://leetcode.com/aniketdhole/
