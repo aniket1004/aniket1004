@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on C# .NET and Angular Framework.
+- 🔭 I’m currently working on C# .NET WEB API and Angular Framework.
 - 🌱 I’m currently learning Machine Learning using Python.
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole.netlify.app
