@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working on C# .NET Framework.
-- 🌱 I’m currently learning Mobile Development in Android.
+- 🔭 I’m currently working on C# .NET and Angular Framework.
+- 🌱 I’m currently learning Machine Learning using Python.
 - 💬 Ask me about programming.
 - 📫 How to reach me https://aniketdhole.netlify.app
 - ⚡ LeetCode Profile : https://leetcode.com/aniketdhole/
