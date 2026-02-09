@@ -55,3 +55,8 @@ SQL Server, MySQL, Oracle PL/SQL, Git, Azure DevOps, IIS, Visual Studio
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket1004&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket1004&layout=compact&theme=merko)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aniket1004&theme=merko)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket1004&theme=merko)
+
