@@ -60,7 +60,4 @@ SQL Server, MySQL, Oracle PL/SQL, Git, Azure DevOps, IIS, Visual Studio
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket1004&theme=merko)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket1004&theme=merko)
-
-![Metrics](https://metrics.lecoq.io/aniket1004?template=classic&languages=1)
 
